@@ -1,19 +1,3 @@
-<!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-        <!--=============== REMIXICONS ===============-->
-        <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
-
-        <!--=============== CSS ===============-->
-        <link rel="stylesheet" href="assets/css/styles.css">
-
-        <title>Responsive navigation bar - Bedimcode</title>
-    </head>
-    <body>
-        <!--=============== HEADER ===============-->
         <header class="header">
             <nav class="nav container">
                 <div class="nav__data">
@@ -251,5 +235,3 @@
         
         <!--=============== MAIN JS ===============-->
         <script src="assets/js/main.js"></script>
-    </body>
-</html>
