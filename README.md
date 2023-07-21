@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a><img src="https://i.ibb.co/cvLWyKZ/Logo-Rounded.png" alt="Enfrade" width="200"></a>
+  <a><img src="https://i.ibb.co/cvLWyKZ/Logo-Rounded.png" alt="Enfrade" width="140"></a>
   <br>
   Enfrade
   <br>
